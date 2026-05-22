@@ -1,0 +1,14 @@
+[Default Applications]
+text/x-c++src=org.gnome.TextEditor.desktop
+text/html=firefox_firefox.desktop
+x-scheme-handler/http=firefox_firefox.desktop
+x-scheme-handler/https=firefox_firefox.desktop
+x-scheme-handler/about=firefox_firefox.desktop
+x-scheme-handler/unknown=firefox_firefox.desktop
+application/x-ipynb+json=code.desktop
+application/x-extension-burp=install4j_uy1t6c-BurpSuite.desktop
+x-scheme-handler/burp=install4j_uy1t6c-BurpSuite.desktop
+
+[Added Associations]
+text/x-c++src=org.gnome.TextEditor.desktop;
+application/x-ipynb+json=code.desktop;

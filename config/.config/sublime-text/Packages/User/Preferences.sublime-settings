@@ -1,0 +1,12 @@
+{
+	"theme": "Default Dark.sublime-theme",
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Default Dark.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 14,
+	"color_scheme": "Packages/Theme - Argonaut/Argonaut.tmTheme",
+	"index_files": true,
+}
